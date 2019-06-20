@@ -1,5 +1,5 @@
 num1=int(input())
-li=[int(x) for xx in input().split()]
+li=[int(xx) for xx in input().split()]
 dd=[]
 for j in range(0,len(li)):
 	ss=li[j:]
